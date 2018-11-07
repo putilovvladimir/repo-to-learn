@@ -8,4 +8,6 @@ Added some more lines to CHANGELOG
 
 Pull request to learn an Interactive rebase
 
+Try Cherry Pick of the latest commit
+
 We would like to finish EYE Arenberg project asap.
