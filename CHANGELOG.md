@@ -3,3 +3,5 @@
 This is the repo to learn GIT deeper
 
 To learn such possibilities like Merge, Rebase, Cherry Pick, so on.
+
+Added some more lines to CHANGELOG
