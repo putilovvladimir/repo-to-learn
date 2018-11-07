@@ -1,5 +1,3 @@
 # repo-to-learn CHANGELOG
 
-Make first change
-
-Make second change
+This is the repo to learn GIT deeper
